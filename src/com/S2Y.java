@@ -91,7 +91,7 @@ public class S2Y{
 		writeXMLToFile(doc, outputFilePath);		
 	 }
 	
-	//Hello this Thison Rooban this for testing
+	
 	public static Element getReplacementRules(Document doc) {
         Element rules = doc.createElement("ReplacementRules");
         Element rulesElement = doc.createElement("Products");
